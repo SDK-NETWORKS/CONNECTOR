@@ -23,7 +23,7 @@
 - Provides clear prompts and error messages, improving user experience.
 
 5.Graceful Exit:
-- Supports user interruptions with Ctrl+C, allowing users to exit loops and close the Telnet session cleanly.
+- Supports user interruptions with **Ctrl+C**, allowing users to exit loops and close the Telnet session cleanly.
 - Automatically closes the Telnet connection when the user is done.
 
 6.Timeout Mechanism:
