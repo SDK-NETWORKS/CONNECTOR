@@ -1,10 +1,10 @@
 
-# CONNECTOR
+# **CONNECTOR**
 
 🚀 Just wrapped up a Telnet automation script! 💻 This Python tool allows seamless interaction with Devices, making it easy to connect, authenticate, and execute commands directly from the terminal. 🔄
 
 
-## Features
+# Features
 
 1.Telnet Connection Handling:
 - The script allows users to establish a Telnet connection to a network switch using its IP address.
@@ -34,14 +34,14 @@
 
 **CONNECTOR** is a powerful tool that can be used to connect to your remote devices. It is easy to use and can be run on any platform.
 
-## Available On 
+# Available On :
 
 - 𝙇𝙄𝙉𝙐𝙓
 
 - 𝙏𝙀𝙍𝙈𝙐𝙓
 
 - 𝙒𝙄𝙉𝘿𝙊𝙒𝙎
-## CONNECTOR Installation
+# CONNECTOR Installation
 
 ```
 git clone https://github.com/SDK-NETWORKS/CONNECTOR
@@ -49,7 +49,7 @@ cd CONNECTOR
 chmod +x Telnet.py
 ```
 
-## Running CONNECTOR
+# Running CONNECTOR
 
 This will Run **CONNECTOR** Tool.
 
