@@ -57,7 +57,7 @@ chmod +x Telnet.py
 This will Run **CONNECTOR** Tool.
 
 ```
-python3 telnet.py 
+python3 Telnet.py 
 ```
 <h1 align="left">
   <img width="500" alt="Connector" src="Static/example.png">
